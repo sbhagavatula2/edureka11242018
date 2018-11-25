@@ -1,0 +1,6 @@
+Type "main", press CTRL and Space Bar and press ENTER ==> automatically
+write the main method
+
+syso + ctrl space bar + enter ==> to write the system.out.println
+
+shortcutfoo.com
